@@ -1,5 +1,5 @@
 token=NTAzMjc2MzYyNDM0NjA5MTUz.Dq0IkQ.pZBtDO2FKabIvbuWLu0X_7v3xC8
-owner=417375714585870337 
+owner=459300517999411218 
 prefix=z
 game=Listening To Zero
 stayinchannel=true
